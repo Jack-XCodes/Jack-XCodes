@@ -1,4 +1,5 @@
-I'm a **Software Engineer** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Science**. My expertise lies in **prompt engineering, training and fine-tuning AI models, integrating machine learning solutions, and creating AI Agents** to solve real-world problems. I also have experience in web development using **Django and Flask**.<br>
+# 💫 About Me:
+I'm a **Software Engineer** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Science**. My expertise lies in **prompt engineering, training and fine-tuning AI models, integrating machine learning solutions, and creating AI Agents** to solve real-world problems. I also have experience in web development using **Django and Flask**.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/jacob-kasunzu/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jacob John) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobkasunzu1@gmail.com) 
